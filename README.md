@@ -1,5 +1,7 @@
-# bryancortes-2019-SO-Electronica-1827745
-include <studio.h>
-int main(int argc, char** argv) {
-  printf("hola mundo")
- }
+Repositorio Sitemas Operativos 2019
+
+Autor: Bryan Cortés - Ingeniería Electrónica
+
+En este repositorio se almacenarán todos los códigos resultado de desarrollar las actividades en el curso de Sistemas Operativos
+
+

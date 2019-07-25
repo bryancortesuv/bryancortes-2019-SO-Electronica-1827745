@@ -3,7 +3,7 @@
 
 main ()
 {
-  int pid
+  int pid;
   int status;
   switch (pid=fork()) 
   {

@@ -1,0 +1,4 @@
+
+1.) El porcentaje del tiempo que la cpu está corriendo es del 100% debido a que el programa especifica que el segundo parámetro pasado a este es la posibilidad de que este se ejecute al 100%
+
+2.) No va a ser del 100% dado que uno se ejecutará usando el 100 % de la cpu pero el otro entrara en proceso I/O y su utilización será de alrededor del 50%.

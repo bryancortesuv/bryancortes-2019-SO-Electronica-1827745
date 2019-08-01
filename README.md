@@ -1,4 +1,4 @@
-Repositorio Sitemas Operativos 2019
+Repositorio Sistemas Operativos 2019
 
 Autor: Bryan Cortés - Ingeniería Electrónica
 
